@@ -17,7 +17,7 @@ module.exports = {
       options: {
         downloadLocal: true,
         spaceId: sk6402vcbrmp,
-        accessToken: CFPAT-AAsIxXn9NcYtDcmeUqXBrKm44ADOULj60ST2jh7HHH0,
+        accessToken: CFPAT-hqM3ips-toPDbquZgFQlbR0vMPmkACNah4-134EEosc,
         host: process.env.CONTENTFUL_HOST,
       },
     },
