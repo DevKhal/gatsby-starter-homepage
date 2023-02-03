@@ -46,5 +46,20 @@
     "prettier": "2.5.1",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.5"
-  }
+  },
+  "description": "<a href=\"https://www.gatsbyjs.com\">\r   <img alt=\"Gatsby\" src=\"https://www.gatsbyjs.com/Gatsby-Monogram.svg\" width=\"60\" />\r </a>",
+  "main": "gatsby-browser.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevKhal/gatsby-starter-homepage.git"
+  },
+  "author": "devkhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevKhal/gatsby-starter-homepage/issues"
+  },
+  "homepage": "https://github.com/DevKhal/gatsby-starter-homepage#readme"
 }
