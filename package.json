@@ -10,9 +10,9 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "gatsby-provision": "gatsby-provision-contentful --contentful-data-path='./scripts/data.json' --space-id=sk6402vcbrmp --management-token=$CONTENTFUL_MANAGEMENT_TOKEN",
+    "gatsby-provision": "gatsby-provision-contentful --contentful-data-path='./scripts/data.json' --space-id=sk6402vcbrmp --management-token=CFPAT-AAsIxXn9NcYtDcmeUqXBrKm44ADOULj60ST2jh7HHH0",
     "setup": "node ./scripts/setup.js",
-    "export-content": "contentful space export --space-id=$SPACE_ID --management-token=$MANAGEMENT_TOKEN --export-dir=scripts --content-file=data.json"
+    "export-content": "contentful space export --space-id=sk6402vcbrmp --management-token=CFPAT-AAsIxXn9NcYtDcmeUqXBrKm44ADOULj60ST2jh7HHH0 --export-dir=scripts --content-file=data.json"
   },
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^15.11.1",
